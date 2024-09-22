@@ -1,4 +1,4 @@
-# Tugas-4_SISTEM-OPERASI_JOB-KONTROL
+# Tugas-4_SISTEM-OPERASI_JOB-CONTROL
 
 Nama    :Satrio Joronggur Mahendra
 
